@@ -1,3 +1,3 @@
 # Aluminum Built Games
 Aluminum is a (currently closed source) game engine I am making in my free time. Currently, the engine only supports Windows. However, there are plans to support Linux and the hope to support consoles. This repository contains publicly available games I have made with the Aluminum game engine. The list is as follows:
-- Tic-Tac-Toe
+- [Tic-Tac-Toe](https://github.com/aryan-sinhala349/aluminum-built-games/releases/tag/tic-tac-toe-v1.0.0)
